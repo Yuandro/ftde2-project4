@@ -13,4 +13,3 @@ A machine learning model is then applied to predict whether each transaction is 
 - DBeaver
 - Visual Studio Code
 
-  
